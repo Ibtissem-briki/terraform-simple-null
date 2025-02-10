@@ -1,5 +1,5 @@
 variable "mycount" {
-  default = 7
+  default = 8
 }
 
 resource "random_pet" "pet1" {
